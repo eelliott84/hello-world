@@ -1,2 +1,3 @@
 # hello-world
-First one
+First Repository
+New to Git hub
